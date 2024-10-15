@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <index version="1" name="Plug-in Play ReaPack Repository" commit="58a3e39ba95bd0f35846aa1f39aa4cb2574295e1">
-  <category name="Project_Timer_Stopwatch">
+  <category name="JSFX">
     <reapack name="pluginplay_Project Timer Stopwatch.jsfx" type="script" desc="Project Timer Stopwatch">
       <metadata>
         <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}

@@ -17,8 +17,6 @@ about:
 
   *activity being measured by the position of Reaper's cursor and by any audio going through the plugin. For most accurate results, it is best to keep this plugin on your master track.
 
-desc: Project Timer Stopwatch
-
 in_pin:left input
 in_pin:right input
 out_pin:left output

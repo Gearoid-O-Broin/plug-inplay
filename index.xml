@@ -21,6 +21,30 @@ Markdown
       </version>
     </reapack>
   </category>
+  <category name="Example">
+    <reapack name="pluginplay_Project Timer Stopwatch.jsfx" type="script" desc="Project Timer Stopwatch">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 This is a heavily modified version of witti Clock - Project Time. Witti's Clock plugin tracks the total time spent with a project open and active (window in focus). My modification adds the following functionality to this:\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Key features:\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 - Clicking on the clockface (left or right click) will pause the timer\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 - Pressing Left/Right arrow keys (while plugin is in focus) will manually move the clock forward/backward by 1 minute\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 - The timer will time out after a set interval without project activity.* The idle threshold (set to 300 seconds by default) can be edited by automation\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 - The clock will automatically resume when activity is detected while the clock is paused* (this can be prevented, and the timer locked, by bypassing the plugin)\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 - Pressing Backspace will reset the clock to 0:00\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \par}
+{\pard \ql \f0 \sa180 \li0 \fi0 *activity being measured by the position of Reaper's cursor and by any audio going through the plugin. For most accurate results, it is best to keep this plugin on your master track.\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="plug-in play" time="2024-10-15T14:30:32Z">
+        <source main="main">https://github.com/Gearoid-O-Broin/plug-inplay/pluginplay_Project Timer Stopwatch.jsfx</source>
+      </version>
+    </reapack>
+  </category>
   <metadata>
     <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}

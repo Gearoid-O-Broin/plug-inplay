@@ -22,7 +22,7 @@ Markdown
     </reapack>
   </category>
   <category name="Example">
-    <reapack name="pluginplay_Project Timer Stopwatch.jsfx" type="script" desc="Project Timer Stopwatch">
+    <reapack name="Plugin Timer Stopwatch/pluginplay_Project Timer Stopwatch.jsfx" type="script" desc="Project Timer Stopwatch">
       <metadata>
         <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}

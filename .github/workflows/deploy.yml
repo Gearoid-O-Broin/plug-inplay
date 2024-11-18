@@ -12,8 +12,8 @@ jobs:
         fetch-depth: 0
     - name: Configure git
       run: |-
-        git config user.name  'ReaTeam Bot'
-        git config user.email 'reateam-bot@cfillion.ca'
+        git config user.name  'Plug-in-Play'
+        git config user.email 'gearoid.brn92@gmail.com'
         git config --list
     - name: Install Pandoc
       run:  sudo apt-get install -yy pandoc

@@ -1,7 +1,6 @@
 desc: Project Timer Stopwatch
 author: Plug-In Play
-version: 1.0
-screenshot: Clock Demo https://plug-inplay.com/images/plugins/clock.gif
+version: 1.1
 about:
   # Project Timer Stopwatch
 
@@ -16,6 +15,8 @@ about:
   - Pressing Backspace will reset the clock to 0:00
 
   *activity being measured by the position of Reaper's cursor and by any audio going through the plugin. For most accurate results, it is best to keep this plugin on your master track.
+
+desc: Project Timer Stopwatch
 
 in_pin:left input
 in_pin:right input
@@ -166,3 +167,4 @@ click_count >= 2 ? (
   idle_counter = 0;
   click_count = 1;
 );
+

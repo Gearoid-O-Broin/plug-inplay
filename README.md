@@ -19,5 +19,5 @@ You can also use [ysfx](https://github.com/jpcima/ysfx) or [ReaJS](https://www.r
 # Plugins
 Here's a list of my plugins, with a brief description:
 
-## Project Clock
+## Project Timer Stopwatch
 A simple stopwatch to keep track of the amount of time spent on a project

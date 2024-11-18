@@ -21,3 +21,5 @@ Here's a list of my plugins, with a brief description:
 
 ### Project Timer Stopwatch
 A simple stopwatch to keep track of the amount of time spent on a project
+
+![Project Stopwatch GIF](https://github.com/Plug-in-Play/JSFX/blob/master/Project%20Timer%20Stopwatch/clock.gif)

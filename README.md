@@ -1,7 +1,8 @@
 # Plug-in Play ReaPack Repository
-I'll upload any plugins I build for Reaper to this repository:
+I'll upload any JSFX plugins I build for Reaper to this repository:
+
 [https://github.com/Gearoid-O-Broin/plug-inplay/raw/master/index.xml](https://github.com/Gearoid-O-Broin/plug-inplay/raw/master/index.xml).
-At the moment, I'm starting with JSFX plugins.
+
 
 # Installation
 If you have the ReaPack Extension installed, you can add the repository to Reaper with this URL:

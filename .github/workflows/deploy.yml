@@ -12,8 +12,9 @@ jobs:
         fetch-depth: 0
     - name: Configure git
       run: |-
-        git config user.name  'Plug-in Play'
-        git config user.email 'gearoid.brn92@gmail.com'
+        git config user.name  'ReaTeam Bot'
+        git config user.email 'reateam-bot@cfillion.ca'
+        ::warning file={name},line={line},endLine={endLine},title={title}::{message}
     - name: Install Pandoc
       run:  sudo apt-get install -yy pandoc
     - name: Set up Ruby

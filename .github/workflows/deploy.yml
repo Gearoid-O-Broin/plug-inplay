@@ -12,7 +12,7 @@ jobs:
         fetch-depth: 0
     - name: Configure git
       run: |-
-        git config user.name  'Plug-in-Play'
+        git config user.name  'Plug-in Play'
         git config user.email 'info.pluginplay@gmail.com'
     - name: Install Pandoc
       run:  sudo apt-get install -yy pandoc

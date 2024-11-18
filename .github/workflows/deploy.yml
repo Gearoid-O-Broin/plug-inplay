@@ -13,7 +13,7 @@ jobs:
     - name: Configure git
       run: |-
         git config user.name  'Plug-in Play'
-        git config user.email 'info.pluginplay@gmail.com'
+        git config user.email 'gearoid.brn92@gmail.com'
     - name: Install Pandoc
       run:  sudo apt-get install -yy pandoc
     - name: Set up Ruby
